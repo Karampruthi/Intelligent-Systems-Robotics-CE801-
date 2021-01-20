@@ -3,7 +3,7 @@
 
 1) PID Controller that enacts a right edge following behaviour
 
-2)  fuzzy logic controller that can enact
+2)  Fuzzy logic controller that can enact
 
      i. Right edge following behaviour
      
