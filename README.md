@@ -5,7 +5,8 @@
 
 2)  fuzzy logic controller that can enact
 
-     i. Right edge following behaviour 
+     i. Right edge following behaviour
+     
     ii. Obstacle avoidance behaviour 
 
 
